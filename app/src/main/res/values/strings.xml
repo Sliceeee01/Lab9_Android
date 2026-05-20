@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Game_Wiki</string>
+
+    <string name="game1">Red Dead Redemption 2</string>
+    <string name="game2">The Witcher 3</string>
+    <string name="game3">Terraria</string>
+    <string name="game4">Subnautica</string>
+    <string name="game5">Minecraft</string>
+
+    <string name="game1_description">Дикий Запад, 1899 год. Артур Морган и банда Ван дер Линде пытаются выжить в эпоху уходящей свободы. Огромный открытый мир, охота, рыбалка и невероятная история.</string>
+    <string name="game2_description">Ведьмак Геральт ищет свою пропавшую приёмную дочь Цири. Исследуйте огромный мир, выполняйте задания, сражайтесь с монстрами и принимайте морально сложные решения.</string>
+    <string name="game3_description">Исследуйте, стройте, сражайтесь и выживайте в procedurally-сгенерированном 2D мире. Огромное количество оружия, брони, врагов и строительных блоков.</string>
+    <string name="game4_description">После крушения космического корабля вы оказываетесь на неизвестной планете, полностью покрытой водой. Исследуйте океан, собирайте ресурсы и раскрывайте тайны.</string>
+    <string name="game5_description">Легендарная песочница. Стройте, добывайте ресурсы, сражайтесь с монстрами и выживайте в бесконечном процедурно-генерируемом мире из блоков.</string>
+
+    <string name="previous">← Предыдущая</string>
+    <string name="next">Следующая →</string>
+</resources>
